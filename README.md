@@ -22,6 +22,4 @@ And run the main.ipynb notebook.
 ![plot_GAN_L4_WGP_Transpose013192](https://github.com/BharatPareek2/Image_Denoising/assets/111799814/17b6710a-37f1-4703-ab96-6a9c6aa93a50)
 
 
-First one is the Low light Image
-Second one is Generated Image
-Third one is High Light Image
+First one is the Low light Image, Second one is Generated Image and Third one is High Light Image.
